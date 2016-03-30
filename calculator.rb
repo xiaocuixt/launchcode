@@ -1,3 +1,7 @@
+# Kernel是系统预定义的一些方法，可以在所有对象上使用，Kernel模块中定义了private method和public method
+
+
+
 Kernel.puts("Welcome to Calculator!")
 Kernel.puts("Input the first number")
 num1 = Kernel.gets
@@ -19,4 +23,3 @@ else operator == '4'
 end
 
 Kernel.puts("The result is #{result}")
-
