@@ -1,0 +1,9 @@
+#https://launchschool.com/books/ruby/read/more_stuff#variables_as_pointers
+
+#最好总结出一个帖子出来
+
+
+# pointers  指针，指标
+variables and pointers  变量和指针
+变量(variable)在内存中或者地址空间中作为指针(pointers)是怎么表现的呢
+概念描述：variables are pointers to physical space in memory  内存中，变量是物理空间的指针

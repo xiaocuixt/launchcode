@@ -1,0 +1,1 @@
+paper rock scissor  剪刀石头布
